@@ -2,7 +2,6 @@ import { Heart, ExternalLink, Clock, ArrowUpRight } from 'lucide-react';
 import axios from 'axios';
 import { useState } from 'react';
 import { motion } from 'framer-motion';
-import { Card, CardContent } from '@/components/ui/card';
 import { Button } from '@/components/ui/button';
 import { Badge } from '@/components/ui/badge';
 
