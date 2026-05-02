@@ -2,7 +2,6 @@ import { NavLink, useNavigate, useSearchParams } from 'react-router-dom';
 import { Radar, Search, Heart } from 'lucide-react';
 import { useState, useEffect } from 'react';
 import { motion } from 'framer-motion';
-import { Button } from '@/components/ui/button';
 import { Input } from '@/components/ui/input';
 
 const Navbar = () => {
